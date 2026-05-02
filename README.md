@@ -8,5 +8,4 @@ I am a Data Analytics and Computational Mathematics student. My goal is to combi
 - Currently preparing for SOA Exam FM
 
 ### My Current Focus
-I'm currently developing data projects that use risk analysis to improve community health outcomes.
-
+I'm currently developing data projects that use risk analysis to improve community health outcomes. 
