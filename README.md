@@ -9,3 +9,4 @@ I am a Data Analytics and Computational Mathematics student. My goal is to combi
 
 ### My Current Focus
 I'm currently developing data projects that use risk analysis to improve community health outcomes.
+
